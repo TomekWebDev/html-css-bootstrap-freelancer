@@ -1,0 +1,26 @@
+.navbar-collapse{
+    flex-grow: 0;
+}
+
+.navbar-dark{
+    background-color: #2c3e50;
+}
+
+.heading-section{
+    background-color: #1abc9c;
+}
+
+.avatar{
+    width: 250px;
+    height: 250px;
+}
+  
+.line{
+    border-top: 3px solid white;
+    width: 20%;
+}
+  
+.black-line{
+    border-top: 3px solid black;
+    width: 20%;
+}
